@@ -1,16 +1,89 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**BlackWh1te/BlackWh1te** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I'm Maithil
 
-Here are some ideas to get you started:
+### Aspiring Data Scientist | Problem Solver | Tech Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Always+Building;Open+Source+Contributor;Always+Learning+New+Things)](https://git.io/typing-svg)
+
+[![GitHub followers](https://img.shields.io/github/followers/Chronos778?style=for-the-badge&logo=github&color=0e75b6)](https://github.com/BlackWh1te)
+[![Profile Views](https://komarev.com/ghpvc/?username=Chronos778&style=for-the-badge&color=0e75b6)](https://github.com/BlackWh1te)
+
+</div>
+
+---
+
+## About Me
+
+```typescript
+class Developer {
+  name: string = "BlackWh1te";
+  location: string = "Earth";
+  
+  skills = {
+    languages: ["JavaScript", "Python", "Java", "C/C++", "ts", "Rust"],
+    frontend: ["React", "Next.js"],
+    backend: ["Node.js", "FastAPI", "Python"],
+    databases: ["PostgreSQL", "MySQL", "SQLite3"],
+    tools: ["Git", "GitHub", "Linux", "VS Code", "Ida Pro 9.1", "DnSpy", "Ghidra", "Frida"]
+  };
+
+  currentlyLearning: string = "AI/ML";
+  
+  getGoals(): string[] {
+    return [
+      "Build scalable applications",
+      "Contribute to open source",
+      "Share knowledge with the community"
+    ];
+  }
+}
+
+const maithil = new Developer();
+```
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+  
+  <img src="github-metrics.svg" alt="Metrics" width="100%">
+
+</div>
+
+## Contribution Graph
+
+<div align="center">
+  
+![Snake animation](github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## Connect with Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:42daos@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/leblancmiddel)
+
+</div>
+
+---
+
+<div align="center">
+
+
+### Discord Status
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1147423568808906793)](https://discord.com/users/1147423568808906793)
+
+---
+
+**From [BlackWh1te](https://github.com/BlackWh1te) with 💙**
+
+*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+</div>
