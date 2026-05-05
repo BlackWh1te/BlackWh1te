@@ -80,10 +80,6 @@ const Black_Wh1te = new Developer();
 <div align="center">
 
 
-### Discord Status
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/914876614653906974)](https://discord.com/users/leblancmiddel)
-
 ---
 
 **From [BlackWh1te](https://github.com/BlackWh1te) with 💙**
