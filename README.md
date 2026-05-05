@@ -13,10 +13,9 @@
 </div>
 
 ---
-<div align="center">
+
 ## About Me
-</div>
----
+
 ```typescript
 class Developer {
   name: string = "BlackWh1te";
