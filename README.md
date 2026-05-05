@@ -39,7 +39,7 @@ class Developer {
   }
 }
 
-const maithil = new Developer();
+const Black_Wh1te = new Developer();
 ```
 
 ---
