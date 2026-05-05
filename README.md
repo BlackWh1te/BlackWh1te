@@ -48,7 +48,10 @@ const maithil = new Developer();
 
 <div align="center">
   
-  <img src="github-metrics.svg" alt="Metrics" width="100%">
+ </img></details>
+      <details><summary>Default algorithm</summary><img src="https://github.com/BlackWh1te/metrics/blob/examples/metrics.plugin.languages.svg" alt=""></img></details>
+      <details><summary>Default algorithm (with details)</summary><img src="https://github.com/BlackWh1te/metrics/blob/examples/metrics.plugin.languages.details.svg" alt=""></img></details>
+      <img width="900" height="1" alt="">
 
 </div>
 
