@@ -53,7 +53,14 @@ const Black_Wh1te = new Developer();
 <!--START_SECTION:metrics-->
 <!--END_SECTION:metrics-->
 </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BlackWh1te&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackWh1te&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
+<div align="center">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</div>
 
 <div align="center">
   
