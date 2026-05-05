@@ -45,7 +45,18 @@ const Black_Wh1te = new Developer();
 ```
 
 ---
+## 🎯 2026 Focus
+*Currently deep-diving into **AI/ML optimization** and building **agentic workflows** with GraphRAG.*
 
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,rust,react,nextjs,nodejs,fastapi,postgres,mysql,sqlite,linux,git,github,vscode,ghidra,frida" />
+</div>
 
 ## 📊 GitHub Analytics
 
