@@ -1,4 +1,4 @@
-can you some cool animations 
+
 <div align="center">
 
 # 👋 Hey, I'm BlackWh1te
