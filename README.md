@@ -64,10 +64,8 @@ const Black_Wh1te = new Developer();
 <!--START_SECTION:metrics-->
 <!--END_SECTION:metrics-->
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BlackWh1te&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackWh1te&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+![Metrics](https://githubusercontent.com)
+
 
 
 <div align="center">
