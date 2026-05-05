@@ -2,11 +2,7 @@
 
 # 👋 Hey, I'm BlackWh1te
 
-## 📊 GitHub Analytics
-<div align="center">
-<!--START_SECTION:metrics-->
-<!--END_SECTION:metrics-->
-</div>
+
 ### Aspiring Data Scientist | Problem Solver | Tech Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Always+Building;Open+Source+Contributor;Always+Learning+New+Things)](https://git.io/typing-svg)
@@ -49,9 +45,11 @@ const Black_Wh1te = new Developer();
 
 ---
 
-
-
-## Contribution Graph
+## 📊 GitHub Analytics
+<div align="center">
+<!--START_SECTION:metrics-->
+<!--END_SECTION:metrics-->
+</div>
 
 <div align="center">
   
