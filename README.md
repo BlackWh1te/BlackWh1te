@@ -78,7 +78,7 @@ const maithil = new Developer();
 
 ### Discord Status
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1147423568808906793)](https://discord.com/users/leblancmiddel)
+[![Discord Presence](https://lanyard.cnrad.dev/api/914876614653906974)](https://discord.com/users/leblancmiddel)
 
 ---
 
